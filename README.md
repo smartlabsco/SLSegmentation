@@ -1,6 +1,10 @@
 # SL_ParsingAPI
 Face and License Plate Parsing API using Image Segmentation
 
+python V3.py
+
+
+
 # conda env
 
 conda create -n sl-parsing-api python = 3.7
