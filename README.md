@@ -2,6 +2,8 @@
 
 얼굴, 번호판 Segmentation 모듈 & API
 
+https://drive.google.com/drive/folders/1sy0AqgUogOmgkaZDGXex0ONT1zoZgQ5b?usp=sharing
+
 위 저장소에서 model 폴더 및 내용물을 다운로드하여 프로젝트 경로로 이동 후
 
 python V3.py
