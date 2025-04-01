@@ -1,8 +1,12 @@
 # SL_ParsingAPI
-Face and License Plate Parsing API using Image Segmentation
+
+얼굴, 번호판 Segmentation 모듈 & API
+
+위 저장소에서 model 폴더 및 내용물을 다운로드하여 프로젝트 경로로 이동 후
 
 python V3.py
 
+위와 같은 요령으로 실행
 
 
 # conda env
